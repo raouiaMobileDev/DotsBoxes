@@ -1,0 +1,31 @@
+.PointList
+{
+  
+    display:flex;
+    margin-left: 200px;
+    margin-right: auto;
+    
+    
+}
+
+.PointList ul{
+    margin:0px
+}
+
+
+.PointList li {
+   
+    list-style: none;
+    margin: 80px;
+  
+  }
+
+.Point{
+ width: 15px;
+ height: 15px;
+}
+
+ img:hover {
+    width: 25px;
+    height: 25px;
+}
